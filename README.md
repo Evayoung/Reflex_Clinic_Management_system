@@ -33,6 +33,7 @@ The University of Ilorin Clinic Management System (Frontend) is a web applicatio
 - Built with Reflex’s component-based architecture, styled with custom CSS or Tailwind CSS.
 
 ## Project Structure
+```
 Clinic/
 ├── assets/
 │ └── clinic_bg.jpg
@@ -99,7 +100,7 @@ Clinic/
 │ ├── Clinic.py
 ├── rxconfig.py
 ├── requirements.txt
-
+```
 ## Technologies
 
 - **Framework**: Reflex (Python-based web framework)
