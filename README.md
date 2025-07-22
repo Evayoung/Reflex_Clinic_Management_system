@@ -116,9 +116,9 @@ Get a glimpse of the system!
 | :---------------------------------: | :---------------------------------: |
 | ![Admin Dashboard](screenshots/admin_dashboard.png) | ![Student Dashboard](screenshots/student_dashboard.png) |
 
-| Decryption Screen | About Screen |
+| Doctor Dashboard | Landing Page |
 | :---------------------------------: | :---------------------------------: |
-| ![Decryption Screen](screenshots/decryption_screen.png) | ![About Screen](screenshots/about_screen.png) |
+| ![Doctor Dashboard](screenshots/doctor_dashboard.png) | ![Landing Page](screenshots/landing.png) |
 
 
 ## Setup Instructions
