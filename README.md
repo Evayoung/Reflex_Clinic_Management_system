@@ -108,6 +108,19 @@ Clinic/
 - **Backend API**: FastAPI (running at `http://127.0.0.1:8008`)
 - **Dependencies**: reflex, requests (for API calls)
 
+## Screenshots 📸
+
+Get a glimpse of the system!
+
+| Admin Dashboard | Student Dashboard |
+| :---------------------------------: | :---------------------------------: |
+| ![Admin Dashboard](screenshots/admin_dashboard.png) | ![Student Dashboard](screenshots/student_dashboard.png) |
+
+| Decryption Screen | About Screen |
+| :---------------------------------: | :---------------------------------: |
+| ![Decryption Screen](screenshots/decryption_screen.png) | ![About Screen](screenshots/about_screen.png) |
+
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
